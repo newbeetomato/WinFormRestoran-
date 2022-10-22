@@ -1,1 +1,1 @@
-# 1 ekim yeni sql li
+# WinForm Application for Restaurant 
